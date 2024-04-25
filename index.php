@@ -53,7 +53,7 @@
         <div><input type="text" name="Phone" placeholder="Number"></div>
         <div><input type="text" name="Address" placeholder="Address"></div>
         <div><textarea name="Description"  cols="10" rows="10" placeholder="Description"></textarea></div>
-        <div class="btndiv"><button class="btn" name="submit">Submit</button></div>
+        <div class="btndiv"><button class="btn" name="Submit">Submit</button></div>
     </form>
 
 
